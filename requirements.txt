@@ -1,0 +1,7 @@
+google-auth==2.23.3
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.97.0
+transformers==4.35.0
+scikit-learn==1.3.0
+torch==2.0.1  # Required for transformers (especially for Hugging Face models)
